@@ -1,0 +1,155 @@
+/* 自定义样式 - 简洁专业风格 */
+
+:root {
+  /* 主色调 - 深蓝专业感 */
+  --vp-c-brand-1: #2563eb;
+  --vp-c-brand-2: #3b82f6;
+  --vp-c-brand-3: #60a5fa;
+  
+  /* 文字颜色 */
+  --vp-c-text-1: #1f2937;
+  --vp-c-text-2: #4b5563;
+  --vp-c-text-3: #9ca3af;
+  
+  /* 背景色 */
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-soft: #f9fafb;
+  --vp-c-bg-mute: #f3f4f6;
+}
+
+/* 首页 Hero 区域 */
+.VPHero {
+  padding: 80px 0 60px !important;
+}
+
+.VPHero .name {
+  font-size: 56px !important;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.VPHero .text {
+  font-size: 32px !important;
+  font-weight: 500;
+  color: var(--vp-c-text-2);
+}
+
+.VPHero .tagline {
+  font-size: 18px !important;
+  color: var(--vp-c-text-2);
+  margin-top: 16px;
+}
+
+/* Features 区域 */
+.VPFeatures {
+  padding: 40px 0 80px !important;
+}
+
+.VPFeatures .VPFeature {
+  border-radius: 12px;
+  padding: 32px;
+  transition: all 0.3s ease;
+}
+
+.VPFeatures .VPFeature:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
+}
+
+.VPFeatures .icon {
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+
+.VPFeatures .title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.VPFeatures .details {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--vp-c-text-2);
+}
+
+/* 导航栏 */
+.VPNav {
+  backdrop-filter: blur(12px);
+}
+
+/* 侧边栏 */
+.VPSidebar {
+  background: var(--vp-c-bg-soft);
+}
+
+/* 正文区域 */
+.VPDoc {
+  padding: 32px 48px !important;
+}
+
+/* 引用块 */
+.vp-doc blockquote {
+  border-left: 4px solid var(--vp-c-brand-1);
+  background: var(--vp-c-bg-soft);
+  padding: 16px 20px;
+  border-radius: 0 8px 8px 0;
+  margin: 24px 0;
+}
+
+.vp-doc blockquote p {
+  margin: 0;
+  font-style: italic;
+  color: var(--vp-c-text-2);
+}
+
+/* 表格 */
+.vp-doc table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.vp-doc th {
+  background: var(--vp-c-bg-mute);
+  font-weight: 600;
+}
+
+/* 代码块 */
+.vp-doc div[class*='language-'] {
+  border-radius: 8px;
+}
+
+/* 链接 */
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+
+.vp-doc a:hover {
+  border-bottom-color: var(--vp-c-brand-1);
+}
+
+/* 按钮 */
+.VPButton {
+  border-radius: 8px !important;
+  font-weight: 500 !important;
+  padding: 12px 24px !important;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .VPHero .name {
+    font-size: 36px !important;
+  }
+  
+  .VPHero .text {
+    font-size: 24px !important;
+  }
+  
+  .VPDoc {
+    padding: 24px !important;
+  }
+}

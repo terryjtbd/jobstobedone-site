@@ -1,5 +1,13 @@
+<<<<<<< HEAD
   node_modules
   .vitepress/dist
   .vitepress/cache
   *.log
   .DS_Store
+=======
+node_modules
+.vitepress/dist
+.vitepress/cache
+*.log
+.DS_Store
+>>>>>>> 74ca693 (Initial commit: JTBD site with VitePress)
