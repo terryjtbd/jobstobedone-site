@@ -1,32 +1,36 @@
 # 洞察文章
 
-## 全部文章
+这里汇集公众号「JTBD商业创新实验室」已发布的内容，分为作者原创与经典文摘两个持续更新的栏目。
 
-这里记录关于 JTBD、用户洞察、战略设计的思考。
+## 作者原创
 
----
+### [JTBD：用户场景驱动的创新](./user-scenario-driven-innovation)
 
-### [为什么 JTBD 应该成为企业战略的起点](./article-01)
+*从“客户需要什么”转向“客户在何种场景下要完成什么工作”。*
 
-*从洞察到战略的完整逻辑*
+### [JTBD视角：我的黄金办公搭子 WorkBuddy](./workbuddy-golden-office-partner)
 
-**摘要**：JTBD 不仅是一种用户研究工具，更是一套战略操作系统。本文解释为什么待办任务理论应该成为企业战略的原点。
+*从真实工作场景出发，让 AI 工具成为可验证、可协同的工作伙伴。*
 
----
+## 经典文摘
 
-### [如何进行一次有效的 JTBD 访谈](./article-02)
+> 选编自经典 JTBD 研究与公开文章。每篇均标明原作者与出处；此栏目将持续更新。
 
-*实操指南*
+### [《JTBD双语文摘》1：优秀企业失败的原因](./bilingual-01-why-great-companies-fail)
 
-**摘要**：JTBD 访谈和传统用户访谈有什么不同？应该问什么问题？如何避免常见陷阱？
+*来源：Clayton M. Christensen，Harvard Business Review。*
 
----
+### [《JTBD双语文摘》2：成功产品的共性](./bilingual-02-successful-products)
 
-### [AI 时代的 JTBD：什么变了，什么没变](./article-03)
+*来源：Clayton M. Christensen，Harvard Business Review。*
 
-*技术变革下的方法论思考*
+### [《JTBD双语文摘》3：Why People Buy](./bilingual-03-why-people-buy)
 
-**摘要**：大模型和 AI 工具如何影响用户洞察？JTBD 方法论在 AI 时代还适用吗？
+*来源：Clayton M. Christensen，Harvard Business Review。*
+
+### [《JTBD双语文摘》4：阅后即焚的需求洞察](./bilingual-04-disappearing-insights)
+
+*来源：Clayton M. Christensen，Harvard Business Review。*
 
 ---
 
@@ -34,6 +38,4 @@
 
 关注公众号「JTBD商业创新实验室」，第一时间获取新文章。
 
----
-
-*更多文章持续更新中...*
+*内容持续更新中。*
