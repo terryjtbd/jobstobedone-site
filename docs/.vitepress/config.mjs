@@ -46,8 +46,7 @@ export default defineConfig({
           text: '案例研究',
           items: [
             { text: '案例总览', link: '/cases/' },
-            { text: '案例一', link: '/cases/case-01' },
-            { text: '案例二', link: '/cases/case-02' },
+            { text: '客户体验驱动增长：轻奢女装品牌案例', link: '/cases/case-01' },
           ]
         }
       ],
