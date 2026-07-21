@@ -24,9 +24,16 @@ export default defineConfig({
     sidebar: {
       '/methodology/': [
         {
+          text: '基础文章',
+          items: [
+            { text: '方法论概述', link: '/methodology/' },
+            { text: '缘起：我和待办任务的不期而遇', link: '/methodology/origin' },
+            { text: '什么是待办任务', link: '/methodology/what-is-jtbd' },
+          ]
+        },
+        {
           text: '方法论框架',
           items: [
-            { text: '概述', link: '/methodology/' },
             { text: 'Layer 1: 客户洞察 - JTBD原点', link: '/methodology/jtbd-core' },
             { text: 'Layer 2: 产品市场契合', link: '/methodology/pmf' },
             { text: 'Layer 3: 战略设计', link: '/methodology/strategy' },
@@ -49,6 +56,8 @@ export default defineConfig({
           text: '洞察文章',
           items: [
             { text: '全部文章', link: '/insights/' },
+            { text: 'Bob Moesta 谈待办任务（上）', link: '/insights/bob-moesta-jtbd-part-1' },
+            { text: 'Bob Moesta 谈待办任务（下）', link: '/insights/bob-moesta-jtbd-part-2' },
           ]
         }
       ]

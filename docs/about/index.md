@@ -44,7 +44,7 @@ JTBD 认证顾问，「JTBD商业创新实验室」公众号主理人。
 ## 联系我
 
 - **公众号**：JTBD商业创新实验室
-- **邮箱**：your-email@example.com
+- **邮箱**：jobstbd2026@outlook.com
 - **微信**：your-wechat-id
 
 ---
