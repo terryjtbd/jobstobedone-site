@@ -42,6 +42,18 @@
 
 *来源：Clayton M. Christensen，Harvard Business Review。*
 
+### [《JTBD双语文摘》5：好时的突破性增长](./bilingual-05-hersheys-breakthrough-growth)
+
+*从 Reese's Minis 看：被客户“解雇”的产品形式，如何揭示具体场景中的创新机会。*
+
+### [《JTBD双语文摘》6：领先企业突破增长的秘密](./bilingual-06-leading-companies-growth)
+
+*待办任务如何重定义企业所处行业、市场边界与真正的竞争对手。*
+
+### [《JTBD双语文摘》7：如何挖掘“待办任务”](./bilingual-07-discovering-jobs)
+
+*从进步障碍、非消费、权宜之计与非常规使用中发现创新机会。*
+
 ---
 
 ## 订阅更新

@@ -58,6 +58,9 @@ export default defineConfig({
             { text: '全部文章', link: '/insights/' },
             { text: 'Bob Moesta 谈待办任务（上）', link: '/insights/bob-moesta-jtbd-part-1' },
             { text: 'Bob Moesta 谈待办任务（下）', link: '/insights/bob-moesta-jtbd-part-2' },
+            { text: '双语文摘 5：好时的突破性增长', link: '/insights/bilingual-05-hersheys-breakthrough-growth' },
+            { text: '双语文摘 6：领先企业突破增长的秘密', link: '/insights/bilingual-06-leading-companies-growth' },
+            { text: '双语文摘 7：如何挖掘待办任务', link: '/insights/bilingual-07-discovering-jobs' },
           ]
         }
       ]
