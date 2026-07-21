@@ -56,6 +56,7 @@ export default defineConfig({
           text: '洞察文章',
           items: [
             { text: '全部文章', link: '/insights/' },
+            { text: 'JTBD视角：京东外卖的破局之匙', link: '/insights/jd-food-delivery-jtbd' },
             { text: 'Bob Moesta 谈待办任务（上）', link: '/insights/bob-moesta-jtbd-part-1' },
             { text: 'Bob Moesta 谈待办任务（下）', link: '/insights/bob-moesta-jtbd-part-2' },
             { text: '双语文摘 5：好时的突破性增长', link: '/insights/bilingual-05-hersheys-breakthrough-growth' },
